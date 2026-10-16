@@ -1,0 +1,14 @@
+table{
+    border-color: rgb(10, 10, 10);
+    border-radius: 3px;
+    background: rgb(237, 235, 100);
+    color: #0c0c0c
+ 
+}
+td{
+    border-radius: 3px;
+    border-color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: left;
+}
